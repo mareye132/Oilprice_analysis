@@ -1,0 +1,12 @@
+/* src/components/Home.css */
+.home-container {
+    text-align: center;
+    margin: 20px;
+}
+
+.profile-image {
+    width: 150px; /* Adjust the size as needed */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Optional: makes it circular */
+    margin-bottom: 20px;
+}
